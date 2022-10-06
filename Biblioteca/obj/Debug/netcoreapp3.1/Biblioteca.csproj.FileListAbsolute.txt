@@ -1,0 +1,106 @@
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\NOVA UC\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+D:\NOVA UC\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+D:\NOVA UC\Projeto Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache

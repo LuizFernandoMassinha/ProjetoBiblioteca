@@ -1,0 +1,38 @@
+@model Usuario
+@{
+    ViewData["Title"] = "Login";
+}
+
+<body>
+
+<div>
+    <div>
+            <h1>Edição / Atualização de Usuário</h1>
+            <form method='POST' action='cadastro'>
+	            <label asp-for="nomeUsuario">Nome</label>
+	            <input asp-for="nomeUsuario" required>
+                <br>
+                <label asp-for="loginUsuario">Apelido (Login)</label>
+	            <input asp-for="loginUsuario" required>
+                <br>
+                <label asp-for="datadenascimentoUsuario">Data Nasc</label>
+	            <input asp-for="datadenascimentoUsuario" required>
+                <br>
+                <label asp-for="senhaUsuario">Senha</label>
+	            <input asp-for="senhaUsuario" type='password' required>
+                <br>
+                <label asp-for="senhaUsuario">Confirmar Senha</label>
+	            <input asp-for="senhaUsuario" type='password' required>
+                <br>
+                <label asp-for="emailUsuario">Email</label>
+                <input asp-for='emailUsuario' required>
+	            <br>
+	            <input type="reset" value="Limpar">
+	            <input type="submit" value="Cadastrar">
+                <br>
+                </form>
+                <br>
+    </div>
+</div>
+</body>
+</html>

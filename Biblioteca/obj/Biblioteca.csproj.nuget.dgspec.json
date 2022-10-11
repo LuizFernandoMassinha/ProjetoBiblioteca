@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NOVA UC\\Projeto Biblioteca\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\lulet\\OneDrive\\Área de Trabalho\\ProjetoBiblioteca\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "D:\\NOVA UC\\Projeto Biblioteca\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\lulet\\OneDrive\\Área de Trabalho\\ProjetoBiblioteca\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NOVA UC\\Projeto Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\lulet\\OneDrive\\Área de Trabalho\\ProjetoBiblioteca\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "D:\\NOVA UC\\Projeto Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\lulet\\OneDrive\\Área de Trabalho\\ProjetoBiblioteca\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\lulet\\.nuget\\packages\\",
-        "outputPath": "D:\\NOVA UC\\Projeto Biblioteca\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\lulet\\OneDrive\\Área de Trabalho\\ProjetoBiblioteca\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lulet\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -41,6 +41,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.1.13, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",

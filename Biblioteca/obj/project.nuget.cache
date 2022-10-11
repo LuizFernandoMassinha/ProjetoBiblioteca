@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YHbNI9S22DGzPT8IUjfTPJmTj5qFnHiyBfUcW2Vlgi6NZO2ecScrJj7ddpB9FJu5NDTRqaMlX4Oa6q+I6S+DVw==",
+  "dgSpecHash": "/Fr0OcYRWHusvUJi9Ih3lx697QJ7KgKqTHnU5CNIDRGbm1fy0Vhh3zT4N4R22GNOuY7HXa413T/eui28e94bEQ==",
   "success": true,
-  "projectFilePath": "D:\\NOVA UC\\Projeto Biblioteca\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Users\\lulet\\OneDrive\\Área de Trabalho\\ProjetoBiblioteca\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lulet\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\lulet\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",
@@ -21,13 +21,13 @@
     "C:\\Users\\lulet\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
     "C:\\Users\\lulet\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
     "C:\\Users\\lulet\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
-    "C:\\Users\\lulet\\.nuget\\packages\\mysqlconnector\\0.61.0\\mysqlconnector.0.61.0.nupkg.sha512",
+    "C:\\Users\\lulet\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512",
     "C:\\Users\\lulet\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\lulet\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\3.0.0\\pomelo.entityframeworkcore.mysql.3.0.0.nupkg.sha512",
     "C:\\Users\\lulet\\.nuget\\packages\\pomelo.jsonobject\\2.2.0\\pomelo.jsonobject.2.2.0.nupkg.sha512",
     "C:\\Users\\lulet\\.nuget\\packages\\system.collections.immutable\\1.6.0\\system.collections.immutable.1.6.0.nupkg.sha512",
     "C:\\Users\\lulet\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
-    "C:\\Users\\lulet\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\lulet\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "C:\\Users\\lulet\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
   ],
   "logs": []
